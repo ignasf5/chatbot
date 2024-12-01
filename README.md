@@ -43,12 +43,12 @@ cd OmniTool
 pip install -r requirements.txt
 ```
 
-### Kafka Brokers Development
+### Brokers Development
    - www8080ccfdf
    - www8080ccff
    - www8080ccaa
 
-### Kafka Brokers PPE
+### Brokers PPE
    - www8080cc
    - www8080ccbb
    - www8080ccdd
