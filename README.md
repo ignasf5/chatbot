@@ -48,7 +48,7 @@ pip install -r requirements.txt
    - www8080ccff
    - www8080ccaa
 
-### Kafka Brokers DEV
+### Kafka Brokers PPE
    - www8080cc
    - www8080ccbb
    - www8080ccdd
