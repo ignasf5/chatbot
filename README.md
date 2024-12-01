@@ -41,3 +41,13 @@ OmniTool is compatible with macOS, Linux, and Windows. Follow these steps to ins
 git clone https://github.com/username/OmniTool.git
 cd OmniTool
 pip install -r requirements.txt
+
+### Kafka Brokers Development
+   - www8080ccfdf
+   - www8080ccff
+   - www8080ccaa
+
+### Kafka Brokers DEV
+   - www8080cc
+   - www8080ccbb
+   - www8080ccdd
