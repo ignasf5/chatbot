@@ -52,3 +52,6 @@ pip install -r requirements.txt
    - www8080cc
    - www8080ccbb
    - www8080ccdd
+
+### What is Kafka
+Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics
