@@ -60,3 +60,8 @@ pip install -r requirements.txt
 
 ### What is Kafka
 Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics
+
+
+### Multidimensional
+
+![{19EAAA7B-FAA3-493A-9507-2D1244C6257B}](https://github.com/user-attachments/assets/dd8f8a79-3d72-4227-af50-7804ac58f520)
